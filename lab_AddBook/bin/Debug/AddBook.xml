@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <AddBooks>
+    <Id>0</Id>
+    <Name>難停</Name>
+  </AddBooks>
+  <AddBooks>
+    <Id>1</Id>
+    <Name>奇偉</Name>
+  </AddBooks>
+</DataSet1>

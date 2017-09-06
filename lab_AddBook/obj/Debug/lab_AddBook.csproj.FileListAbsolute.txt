@@ -1,0 +1,9 @@
+D:\LABC#\lab_AddBook\lab_AddBook\bin\Debug\lab_AddBook.exe.config
+D:\LABC#\lab_AddBook\lab_AddBook\bin\Debug\lab_AddBook.exe
+D:\LABC#\lab_AddBook\lab_AddBook\bin\Debug\lab_AddBook.pdb
+D:\LABC#\lab_AddBook\lab_AddBook\obj\Debug\lab_AddBook.csprojResolveAssemblyReference.cache
+D:\LABC#\lab_AddBook\lab_AddBook\obj\Debug\lab_AddBook.Properties.Resources.resources
+D:\LABC#\lab_AddBook\lab_AddBook\obj\Debug\lab_AddBook.csproj.GenerateResource.Cache
+D:\LABC#\lab_AddBook\lab_AddBook\obj\Debug\lab_AddBook.exe
+D:\LABC#\lab_AddBook\lab_AddBook\obj\Debug\lab_AddBook.pdb
+D:\LABC#\lab_AddBook\lab_AddBook\obj\Debug\lab_AddBook.Form1.resources
